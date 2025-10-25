@@ -1,4 +1,4 @@
-# find-my-QMD
+# findmy-QMD
 Just a description on how to reset this damn things :D
 
 ## How to reset it
